@@ -1,0 +1,7 @@
+#elemento-1 {
+    color: rgb(234, 13, 13);
+}
+ul::first-line{
+    font-size: 2rem;
+}
+
